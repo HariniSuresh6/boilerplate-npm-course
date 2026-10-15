@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
+	"description": "A web-based car booking application that allows users to browse available cars, view car details and rental prices, and book a car according to their needs.",
 	"author" : "Harini Suresh"
 }
