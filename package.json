@@ -20,5 +20,6 @@
   		"vehicle",
   		"transportation"
 	],
-	"author" : "Harini Suresh"
+	"author" : "Harini Suresh",
+	"license": "MIT"
 }
